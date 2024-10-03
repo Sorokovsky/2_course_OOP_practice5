@@ -1,4 +1,5 @@
-﻿public static class Program
+﻿namespace Task_1;
+public static class Program
 {
     private delegate double Ad(double a, double b);
     private delegate double Sub(double a, double b);
