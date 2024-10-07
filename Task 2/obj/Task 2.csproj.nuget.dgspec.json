@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\progects\\OOP\\2_course\\practice 5\\Task 1\\Task 1.csproj": {}
+    "D:\\progects\\OOP\\2_course\\practice 5\\Task 2\\Task 2.csproj": {}
   },
   "projects": {
-    "D:\\progects\\OOP\\2_course\\practice 5\\Task 1\\Task 1.csproj": {
+    "D:\\progects\\OOP\\2_course\\practice 5\\Task 2\\Task 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\progects\\OOP\\2_course\\practice 5\\Task 1\\Task 1.csproj",
-        "projectName": "Task 1",
-        "projectPath": "D:\\progects\\OOP\\2_course\\practice 5\\Task 1\\Task 1.csproj",
+        "projectUniqueName": "D:\\progects\\OOP\\2_course\\practice 5\\Task 2\\Task 2.csproj",
+        "projectName": "Task 2",
+        "projectPath": "D:\\progects\\OOP\\2_course\\practice 5\\Task 2\\Task 2.csproj",
         "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-        "outputPath": "D:\\progects\\OOP\\2_course\\practice 5\\Task 1\\obj\\",
+        "outputPath": "D:\\progects\\OOP\\2_course\\practice 5\\Task 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
