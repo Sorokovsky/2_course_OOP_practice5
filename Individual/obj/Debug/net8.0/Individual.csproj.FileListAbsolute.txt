@@ -1,0 +1,15 @@
+D:\progects\OOP\2_course\practice 5\Individual\bin\Debug\net8.0\Individual.exe
+D:\progects\OOP\2_course\practice 5\Individual\bin\Debug\net8.0\Individual.deps.json
+D:\progects\OOP\2_course\practice 5\Individual\bin\Debug\net8.0\Individual.runtimeconfig.json
+D:\progects\OOP\2_course\practice 5\Individual\bin\Debug\net8.0\Individual.dll
+D:\progects\OOP\2_course\practice 5\Individual\bin\Debug\net8.0\Individual.pdb
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\Individual.GeneratedMSBuildEditorConfig.editorconfig
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\Individual.AssemblyInfoInputs.cache
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\Individual.AssemblyInfo.cs
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\Individual.csproj.CoreCompileInputs.cache
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\Individual.sourcelink.json
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\Individual.dll
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\refint\Individual.dll
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\Individual.pdb
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\Individual.genruntimeconfig.cache
+D:\progects\OOP\2_course\practice 5\Individual\obj\Debug\net8.0\ref\Individual.dll
